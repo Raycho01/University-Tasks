@@ -1,0 +1,3 @@
+Reservation successful for 2 seat(s) on train to Boston leaving at 10:15:00
+Reservation successful for 20 seat(s) on train to New York leaving at 08:30:00
+Reservation successful for 1 seat(s) on train to New York leaving at 08:30:00
